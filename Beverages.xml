@@ -23,7 +23,7 @@
                 </BrandName >
                 <BrandName name="Nescafe classic" id="4">
                     <grams>27</grams>
-                    <fat> 1 <fat>
+                    <fat> 1 </fat>
                     <sodium> 190 </sodium>
                     <protein> 2 </protein>
                 </BrandName>
@@ -131,24 +131,24 @@
                     <flavor name="RedBlend" id="1">
                         <Size>750ml</Size>
                         <Type> Red Wine </Type>
-                        <ABV> 10.5% </AVB>
+                        <ABV> 10.5% </ABV>
                     </flavor>
                     <flavor name="REDMOSCATO " id="2">
                         <Size>750ml</Size>
                         <Type> Red Wine </Type>
-                        <ABV> 9% </AVB>
+                        <ABV> 9% </ABV>
                     </flavor>
                     <flavor name="PINKMOSCATO " id="3">
                         <Size>750ml</Size>
                         <Type> Red Wine </Type>
-                        <ABV> 9.0% </AVB>
+                        <ABV> 9.0% </ABV>
                     </flavor >
                     <flavor name="MERLOT " id="4">
                         <Size>750ml</Size>  
                         <Type> Red Wine </Type>
-                        <ABV> 13.5% </AVB>
+                        <ABV> 13.5% </ABV>
                     </flavor>
-                <Region>
+                </Region>
             </type>
         </class>
     </Beverages_name>
